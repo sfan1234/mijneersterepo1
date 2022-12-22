@@ -1,0 +1,1 @@
+get-servkce -name 'spooler'

@@ -1,2 +1,4 @@
 get-servkce -name 'spooler'
-sqqqsdqqs
+Start-Service
+
+
